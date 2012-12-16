@@ -6,6 +6,10 @@ Transform anything into anything e.g. chat emoticons into icon font emo's from F
 
 ![emocons](https://raw.github.com/TimPietrusky/emocons/master/img/emocons_preview.png)
 
+## How does it work?
+
+**emocons.js** searches the content of an element for specific character sequences. All matches are replaced with a ```span``` + the class of the icon.  
+
 ## How to use?
 
 ### JavaScript
