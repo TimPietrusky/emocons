@@ -18,7 +18,7 @@ Transform anything into anything e.g. chat emoticons into icon font emo's from F
 $('.chat').emocons();
 ```
 
-### HTML
+### Available emoticons
 
 ```HTML
 <div class="chat">
