@@ -6,7 +6,15 @@ Transform anything into anything e.g. chat emoticons into icon font emo's from F
 
 ![emocons](https://raw.github.com/TimPietrusky/emocons/master/img/emocons_preview.png)
 
-## HTML
+## How to use?
+
+### JavaScript
+
+```javascript
+$('.chat').emocons();
+```
+
+### HTML
 
 ```HTML
 <div class="chat">
