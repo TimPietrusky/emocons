@@ -2,6 +2,8 @@
 
 Transform anything into anything e.g. chat emoticons into icon font emo's from Fontelico. 
 
+You can find a live example on [CodePen](http://codepen.io/TimPietrusky/pen/KloGD).
+
 ## Preview
 
 ![emocons](https://raw.github.com/TimPietrusky/emocons/master/img/emocons_preview.png)
